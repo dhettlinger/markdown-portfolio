@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Wine
+  - Sauvignon blanc
+  - Pinot Noir
+- Beer:  Yeungling
