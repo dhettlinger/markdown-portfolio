@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Octomom from RadioLab](https://media.wnyc.org/i/800/0/c/85/2020/05/octomom_final_v2copy.jpg)
